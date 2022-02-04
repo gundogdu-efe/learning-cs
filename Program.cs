@@ -1,11 +1,12 @@
-﻿using System;
+﻿// Hello everyone, my name is Efe Gündoğdu. I am trying to learn C# from freeCodeCamp.org YouTube channel. I am very beginner for C# and this is my study page :)
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
-
+// (I am using /* and */ for comment because I don't want to mix everything.)
+//Drawing a shape
 /*namespace FirstPorject
 {
     class Program
@@ -21,6 +22,8 @@ using System.Threading.Tasks;
     }
 }
 */
+//Variables
+/*
 namespace FirstProject
 {
     class Program
@@ -40,3 +43,4 @@ namespace FirstProject
         }
     }
 }
+*/
